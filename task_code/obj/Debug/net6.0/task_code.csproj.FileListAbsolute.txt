@@ -1,0 +1,15 @@
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\obj\Debug\net6.0\task_code.csproj.AssemblyReference.cache
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\obj\Debug\net6.0\task_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\obj\Debug\net6.0\task_code.AssemblyInfoInputs.cache
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\obj\Debug\net6.0\task_code.AssemblyInfo.cs
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\obj\Debug\net6.0\task_code.csproj.CoreCompileInputs.cache
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\bin\Debug\net6.0\task_code.exe
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\bin\Debug\net6.0\task_code.deps.json
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\bin\Debug\net6.0\task_code.runtimeconfig.json
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\bin\Debug\net6.0\task_code.dll
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\bin\Debug\net6.0\task_code.pdb
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\obj\Debug\net6.0\task_code.dll
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\obj\Debug\net6.0\refint\task_code.dll
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\obj\Debug\net6.0\task_code.pdb
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\obj\Debug\net6.0\task_code.genruntimeconfig.cache
+C:\Users\СОГАР\Desktop\Проекты\TaskGB\FinalTask\task_code\obj\Debug\net6.0\ref\task_code.dll

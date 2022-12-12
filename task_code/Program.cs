@@ -5,4 +5,24 @@
 // например:
 // ["1234", "1567", "-2", "computer science"] -> ["-2"]
 
+Console.Clear();
+string[] arrayA = new string[6] {"1234", "1567", "-2", "computer science", "123", "cat"};
+string[] arrayB = GetArrayB(arrayA);
+
+
+
+// получаем новый массив где элемент <4
+string[] GetArrayB(string[] array1)
+{
+    string[] array2 = new string[array1.Length];
+    int count = 0;
+    for (int i = 0; i < array1.Length; i++)
+    {
+        if (array1[i].Length < 4) 
+        array2[count] = array1[i];
+        count++;
+    }
+    return array2;
+}
+
 
