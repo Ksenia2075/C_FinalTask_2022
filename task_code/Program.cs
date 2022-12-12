@@ -9,6 +9,7 @@ Console.Clear();
 string[] arrayA = new string[6] {"1234", "1567", "-2", "computer science", "123", "cat"};
 string[] arrayB = GetArrayB(arrayA);
 
+PrintArray(arrayB);
 
 
 // получаем новый массив где элемент <4
